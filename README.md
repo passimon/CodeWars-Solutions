@@ -1,3 +1,3 @@
 Repo for CodeWars kata solutions
 
-My profile:
+Profile: www.codewars.com/users/passim
